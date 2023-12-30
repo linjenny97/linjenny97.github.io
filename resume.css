@@ -11,10 +11,13 @@
 	
 	h3 {
 		margin-bottom: 0;
+		font-size: 1.75em;
 	}
 	
 	h4 {
 		margin-bottom:0;
+		font-size: 1.4em;
+		font-style: italic;
 	}
 	
 	body {
@@ -22,13 +25,13 @@
 		min-height:100vh;
 	}
 	
-		#work h3 {
+	#work h3 {
 		margin-top: 2.5em;
 	}
 	
 	#main {
 		margin:auto;
-		max-width: 800px;
+		max-width: 1000px;
 	}
 	
 	#google-pm {
@@ -42,6 +45,7 @@
 	
 	p {
 		margin: 0;
+		font-size: 16pt;
 	}
 	
 	.jobtitle {
