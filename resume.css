@@ -49,5 +49,6 @@
 	}
 	
 	.bullet:before {
-		content: "- ";
+		content: " \2022";
+		padding-left: .4em;
 	}
