@@ -29,13 +29,16 @@
 		display: block;
 		width: 115px;
 		height: 25px;
-		background: #4E9CAF;
+		background: white;
 		padding: 10px;
 		text-align: center;
 		border-radius: 5px;
-		color: white;
+		color: black;
 		font-weight: bold;
 		line-height: 25px;
 		margin: auto;
 	}
 	
+	body {
+		background-color: #87CEFA;
+	}
